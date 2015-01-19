@@ -27,16 +27,16 @@
 
 <div class="container-fluid">
 	<div class="row">
-	<div class="col-md-8">
+	<div class="col-md-9">
 		<div class="panel panel-default">
 			<div class="panel-body">
-				<div id="googleMap">
+				<div id="googleMap" style="width:100%;height:380px;">
 				mapa ko diri
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="col-md-4">
+	<div class="col-md-3">
 		<div class="panel panel-default">
 			<div class="panel-body">
 				side panel ko diri
